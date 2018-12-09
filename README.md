@@ -7,7 +7,7 @@ Players control the in-game paddles by moving it vertically across the left or r
 The goal is for each player to reach eleven points before the opponent.
 Points are earned when one fails to return the ball.
 
-##Opening the project
+## Opening the project
 The project was created using Unreal Engine 3.20.3 and Visual Studio 2017 Community Edition.
 To open the project make sure you have the latest version of Unreal Engine installed and acompanying version of Visual Studio.
 Next, open and compile the project.
